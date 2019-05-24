@@ -1,10 +1,10 @@
 package:
   name: quadpy
-  version: 0.10.7
+  version: 0.12.10
 
 source:
-  fn: v0.10.7.tar.gz
-  url: https://github.com/nschloe/quadpy/archive/v0.10.7.tar.gz
+  fn: v0.12.10.tar.gz
+  url: https://github.com/nschloe/quadpy/archive/v0.12.10.tar.gz
 
 build:
   number: 0
@@ -18,7 +18,7 @@ requirements:
     - python
     - matplotlib >=2.1.0
     - numpy >=1.13.3
-    - orthopy ==0.2.0
+    - orthopy >=0.5, <0.6
     - scipy >=1.0.0
     - sympy >=1.1.1
 
