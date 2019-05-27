@@ -1,10 +1,10 @@
 package:
   name: orthopy
-  version: 0.2.0
+  version: 0.5.0
 
 source:
-  fn: v0.2.0.tar.gz
-  url: https://github.com/nschloe/orthopy/archive/v0.2.0.tar.gz
+  fn: v0.5.0.tar.gz
+  url: https://github.com/nschloe/orthopy/archive/v0.5.0.tar.gz
 
 build:
   number: 0
